@@ -5,6 +5,5 @@ color: #CDCDCD;
 font-family: 'Baloo Bhaijaan', cursive;
 }
 article {
-border:#454545;
-border-radius:10px;
+border:10px,#454545;
 }
