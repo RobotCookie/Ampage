@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan');
+body {
+background: #1E1E1E;
+color: #CDCDCD;
+font-family: 'Baloo Bhaijaan', cursive;
+}
+article {
+border: 25px #454545;
+}
