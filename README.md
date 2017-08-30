@@ -1,2 +1,2 @@
-# Ampage
+# Wattage
 Free PC Website
